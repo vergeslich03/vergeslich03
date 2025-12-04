@@ -10,13 +10,10 @@ I love anime, gaming, puzzles and learning new things!
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)
 
 ### Programming Languages
-#### Basics
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![My Skills](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-#### Comfortable
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-#### Advanced
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 
 ### Databases
