@@ -20,7 +20,7 @@ I love Anime, gaming, puzzles and learning new things!
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co/elasticsearch)
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/)
-[![My Skills](https://skillicons.dev/icons?i=postgresql)]([https://redis.io/](https://www.postgresql.org/))
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
